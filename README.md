@@ -1,4 +1,8 @@
+## :construction: WIP :construction:
+
 # Mars zsh theme
+
+Simple in-line ZSH-theme based on [pure](https://github.com/sindresorhus/pure) theme
 
 ## Requirements
 - [zsh shell](https://www.zsh.org)
